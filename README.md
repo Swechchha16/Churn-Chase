@@ -1,1 +1,1 @@
-# ChurnInsight
+# ChurnChase
